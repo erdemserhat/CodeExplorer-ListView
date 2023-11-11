@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CodeExplorer-ListView</string>
+
+    <string name="javaName">Java</string>
+    <string name="javaDescription"></string>
+
+    <string name="javaScriptName">Java</string>
+    <string name="javaScriptDescription"></string>
+
+    <string name="pythonName">Java</string>
+    <string name="pythonDescription"></string>
+
+    <string name="cplusName">Java</string>
+    <string name="cplusDescription"></string>
+
+  <!--you are here-->
+</resources>
