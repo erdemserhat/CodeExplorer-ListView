@@ -10,6 +10,7 @@ The main objectives of this project are:
 - **Adapter Concept:** Understanding what adapters are and how to connect a data set to ListView.
 - **Intent-Based Navigation:** Grasping how to navigate between different activities using intents and transferring information.
 
-##Sample Video
+##Sample Screenshots
 
-[Screen_recording_20231114_124049.webm](https://github.com/erdemserhat/CodeExplorer-ListView/assets/116950260/54b2be7c-81cf-4bbb-974c-c8fb6a00acfe)
+![1](https://github.com/erdemserhat/CodeExplorer-ListView/assets/116950260/8cffb48b-7486-42be-8163-b2d8fd537a25)
+
