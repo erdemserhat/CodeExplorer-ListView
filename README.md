@@ -12,5 +12,6 @@ The main objectives of this project are:
 
 ##Sample Screenshots
 
-![1](https://github.com/erdemserhat/CodeExplorer-ListView/assets/116950260/8cffb48b-7486-42be-8163-b2d8fd537a25)
+![1](https://github.com/erdemserhat/CodeExplorer-ListView/assets/116950260/0c31b6dc-c6ea-47b3-af83-20ed1397b42d)
+
 
